@@ -1,0 +1,8 @@
+# fadeout:
+
+
+# https://zulko.github.io/moviepy/ref/videofx/moviepy.video.fx.all.speedx.html#moviepy.video.fx.all.speedx
+speedx:
+  factor:
+    from: 0.8
+    to: 2
